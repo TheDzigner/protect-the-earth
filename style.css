@@ -340,7 +340,7 @@ object-fit: cover ;
 
   text-align:center ;
 
-  position : fixed ;
+  position : relative ;
 
   bottom :0;
 
